@@ -1,0 +1,26 @@
+Tables
+Users
+  UserId
+  UserName
+  Password
+  Firstname
+  lastName
+  Birthday
+  Email
+  Videos
+  Pictures
+  
+Videos
+  VideoId
+  UserId
+  VideoTitle
+  DatePublished
+  Comments
+  Likes
+  Dislikes
+  Description
+  HashTags
+  Category
+  View
+  
+Pictures
